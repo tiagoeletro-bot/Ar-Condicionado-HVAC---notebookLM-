@@ -7,3 +7,23 @@ Atualmente, edifícios inteligentes contam com milhares de pontos de monitoramen
 
 Dessa forma, este projeto busca unir a experiência prática adquirida ao longo da minha carreira com as competências desenvolvidas no bootcamp de Automação e Análise de Dados, demonstrando como a utilização de ferramentas de programação, tratamento de dados e visualização pode gerar informações relevantes para aumentar a eficiência operacional e apoiar decisões baseadas em dados.
 
+Links utilizados:
+
+https://www.youtube.com/watch?v=qxY8ycEGqxs
+https://hvacknowitall.com/blog/bms-control-fundamentals
+https://theengineeringmindset.com/chiller-compressor-types/
+https://www.messungbacd.com/blog/chiller-plant-optimization-the-role-of-advanced-controls-redundancy-in-modern-buildings/
+https://www.youtube.com/watch?v=SFBeY6ybYM8
+https://www.youtube.com/watch?v=CNofxbMUsnY
+https://www.tmba.com/blog/chillers-building-management-systems-hvac
+https://www.youtube.com/playlist?list=PLvkgO7ZQfzZAWUwFevWFAv8edIv4urSeh
+https://www.youtube.com/watch?v=fiZ6INggQdk
+https://www.youtube.com/playlist?list=PLur5MrU0fK_Jm5QLt901S81VJgFrV9M2q
+https://www.mcclureco.com/the-importance-of-proper-maintenance-of-vrv-vrf-systems
+https://www.trane.com.br/commercial/latin-america/br/pt/products-systems/chillers.html
+https://www.youtube.com/watch?v=jrWf9-5v80c
+https://www.aircolder.com/experience/vrfvariable-refrigerant-flowsystem-installation-and-maintenance/
+https://www.lneya.com/blog/what-are-the-common-types-of-chiller-compressors.html
+https://www.daikinmea.com/en_us/knowledge-center/what-is-a-bms-and-how-does-it-work-with-hvac.html
+
+
