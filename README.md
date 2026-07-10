@@ -1,4 +1,7 @@
 # Ar-Condicionado-HVAC---notebookLM-
+
+Link de acesso ao projeto no notebookLM: https://notebooklm.google.com/notebook/ef8dcf21-6b71-424d-8889-6eb14c99099b
+
 Material a respeito sobre sistema de ar condicionado (foco em sistemas de ar condicionado predial)
 
 O tema deste projeto foi escolhido devido à minha experiência profissional de 19 anos na área de sistemas de ar-condicionado predial (HVAC). Ao longo desse período, acompanhei a evolução dos sistemas de automação predial e observei como a quantidade de dados gerados pelos equipamentos aumentou significativamente. Entretanto, em muitos casos, esses dados ainda são pouco explorados para apoiar a tomada de decisão.
